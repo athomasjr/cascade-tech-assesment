@@ -6,11 +6,11 @@
 
 Antonio Thomas
 
-Portfolio: [athomasjr.com](https://www.athomasjr.com)
-Freelance: [antoniothomasjr.com](https://antoniothomasjr.com/)
-Twitter: [@athomas_jr](https://twitter.com/athomas_jr)
-Github: [@athomasjr](https://github.com/athomasjr)
-LinkedIn: [@athomas-jr](https://linkedin.com/in/athomas-jr)
+- Portfolio: [athomasjr.com](https://www.athomasjr.com)
+- Freelance: [antoniothomasjr.com](https://antoniothomasjr.com/)
+- Twitter: [@athomas_jr](https://twitter.com/athomas_jr)
+- Github: [@athomasjr](https://github.com/athomasjr)
+- LinkedIn: [@athomas-jr](https://linkedin.com/in/athomas-jr)
 
 ## Tech Used
 
